@@ -1,4 +1,4 @@
-Mireille Krier's blog
+Mireille Krier's blog https://mvkrier.github.io/
 
 This page will serve as repository for Mireille's blog
 
